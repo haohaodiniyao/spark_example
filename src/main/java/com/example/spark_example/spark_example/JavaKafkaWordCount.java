@@ -25,7 +25,7 @@ import scala.Tuple2;
  * @author yaokai
  *
  */
-public final class JavaKafkaWordCount {
+public class JavaKafkaWordCount {
 	private static final Pattern SPACE = Pattern.compile(" ");
 	private JavaKafkaWordCount() {
 	}
